@@ -109,3 +109,25 @@ SQL views transform transactional data into business-level metrics and analytica
 ### 5. Dashboard
 
 Google Data Studio connects to the PostgreSQL analytics layer and presents the results through management dashboards.
+
+## Dashboard
+
+The project includes an interactive Google Data Studio dashboard covering
+executive performance, inventory, sales, and product analysis.
+
+**[View the Live Dashboard →](https://datastudio.google.com/reporting/502615e6-9bfd-4b60-87e2-1b3b6ae9519c)**
+
+### Dashboard Pages
+
+#### Executive Overview
+
+![Executive Overview](dashboard/executive_overview.png)
+
+#### Inventory & Product Analysis
+
+![Inventory & Product Analysis](dashboard/inventory_product_analysis.png)
+
+#### Sales & Product Analysis
+
+![Sales & Product Analysis](dashboard/sales_product_analysis.png)
+
