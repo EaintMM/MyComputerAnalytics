@@ -131,3 +131,5 @@ executive performance, inventory, sales, and product analysis.
 
 ![Sales & Product Analysis](dashboard/sales_product_analysis.png)
 
+Business insight report can be seen at ([business_insight](https://github.com/EaintMM/MyComputerAnalytics/tree/main/docs))
+
